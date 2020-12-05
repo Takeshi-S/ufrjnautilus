@@ -1,12 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Equipe de robótica submersiva 
 content: >
-  # I am here for your personal business
+  ## Prêmio Holding Steady 2020
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  A UFRJNautilus conquistou esse prêmio pelo seu destaque na RoboSub.
+  
+buttonName: Contato
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
