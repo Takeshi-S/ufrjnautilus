@@ -1,20 +1,20 @@
 ---
 enable: true
-topTitle: About
+topTitle: Sobre
 title: >
-  ## About me
+  ## Conheça nosso time
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 content: >
-  ### I design and build ultimate things.
+  ### Tecnologia e inovação em veículos autônomos.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
-button1Target: contact
+   Criados em 2016, nosso principal domínio e foco atual é o desenvolvimento de Veículos Submarinos Autônomos (AUV's) , que são robôs não tripulados que realizam suas tarefas de forma totalmente independente .
+
+  Este tipo de veículo surge como uma necessidade de inovação para o mercado submarino,
+  que teve como primeira revolução a substituição de mergulhadores em várias tarefas por
+  robôs submarinos controlados remotamente ( ROVs ) e agora se vê com o objetivo.  
+button1Name: Artigos
+button2Name: Contato
+button1Target: blog
 button2Target: contact
 image: images/about/about-img.jpg
