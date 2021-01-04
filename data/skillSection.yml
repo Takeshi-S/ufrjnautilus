@@ -1,17 +1,19 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Informações técnicas
 content: >
-  ## Why hire me for your next project?
+  ## Alguns dados 
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel est tellus. In et eleifend elit. In non est euismod.
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
+  - title: Algum dado
     percent: 69
-  - title: CSS
+  - title: Algum dado
     percent: 60
-  - title: Javascript
+  - title: Algum dado
     percent: 85
